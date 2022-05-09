@@ -89,7 +89,7 @@ body {
        -ms-animation: play .5s steps(2) infinite;
        -o-animation: play .5s steps(2) infinite;
 }
-
+/*animação*/
 @keyframes play {
 	from {background-position:0px;}
 	to {background-position:-512px;}
